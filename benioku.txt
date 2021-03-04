@@ -1,0 +1,21 @@
+<!-- İstemiş olduğunuz projede MVC yapısı bilmediğim için kullanmadım.Ayrıca database ortamım olmadığı için birden fazla kullanıcılar için projeyi tasarlamadım.
+Giriş Yap Bölümünden Kullanıcı Adı:admin Şifre:1234 olarak girebilirsiniz --> 
+
+*****************************
+Müşteri ve yönetici girişi olan bir web uygulaması; otobüs biletleme sistemi (MVC kullanarak)
+
+Aşağıdaki özellikler yeterlidir 
+
+Kullanıcı e-posta ve parola ile yeni üyelik oluşturabilir.
+Bir bilet satın alma ekranından gideceği lokasyonu, tarih ve saati seçerek boş koltuk listesini görür. (Otobüste 20 koltuk olması yeterlidir, lokasyon için 3 farklı güzergah olması yeterlidir.)
+Ad soyad bilgisini doldurarak bileti satın alır. (Para çekme işlemine gerek yok.) 
+Toplam 20 biletten, her 5 bilet satıldıktan sonra fiyatı %10 pahalanır. (Son kalan 9. bileti alan başka bir kullanıcı, otobüs boşken bilet alan kişiden %20 daha pahalıya alır vs.)
+Yönetici ise önceden tanımlı bir kullanıcı adı şifre ile login olabilir ve yalnızca tek ekran görür; tüm satılan biletlerin isim ve alınan bilet ücretlerinin bir listesi. İsterse seçtiği bir bileti iptal ederek boşa çıkarabilir.
+Projede katmanlı mimari kullanmanızı ve frontend tarafında güzel bir çalışmayla iletmenizi bekliyoruz
+Frontend bilginizi ön plana çıkaracak ekstra dokunuşlar da yapabilirsiniz
+Proje için son teslim tarihi 05.03.2021 saat 1700 olacaktır.
+
+Projenizi GitHub hesabınıza eklemenizi ve ilgili linki iletmenizi rica ederim.
+
+Saygılarımla,
+**************************
